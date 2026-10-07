@@ -1,0 +1,12531 @@
+[
+  {
+    "type": "noun",
+    "text": "Abraham",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Alexander the Great",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Al Capone",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Amelia Earhart",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Aristotle",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Attila",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Audrey Hepburn",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Babe Ruth",
+    "categories": [
+      "famous",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Bach",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Beethoven",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Beyoncé",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Bezos",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Bill Clinton",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Bin Laden",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Bob Dylan",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Bowie",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Buddha",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Buffett",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Caesar",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Caligula",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Carnegie",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Castro",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Cervantes",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Chaplin",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Charlemagne",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Charles Manson",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Che Guevara",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Churchill",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Cleopatra",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Cobain",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Columbus",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Confucius",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Copernicus",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Cromwell",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Curie",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Dahmer",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Dalai Lama",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Dante",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Darwin",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Da Vinci",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Dickens",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Dostoevsky",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Drake",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Edison",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Einstein",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Elizabeth I",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Elvis",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Epstein",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Florence Nightingale",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Ford",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Freud",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Galileo",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Gandhi",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Gates",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Genghis Khan",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Gorbachev",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Hannibal",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Harriet Tubman",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Hawking",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Hemingway",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Henderson",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Hendrix",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Henry VIII",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Hitler",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Homer",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Jack the Ripper",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Jefferson",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Jesus Christ",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Joan of Arc",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Jobs",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Jung",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Kafka",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Kanye",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Kardashian",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Kennedy",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Kim Jong-un",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Lance Armstrong",
+    "categories": [
+      "famous",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Lenin",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Lennon",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Lincoln",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Machiavelli",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Madonna",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Magellan",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Malcolm X",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Mandela",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Marco Polo",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Maradona",
+    "categories": [
+      "famous",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Marie Antoinette",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Marilyn Monroe",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Martin Luther",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Martin Luther King",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Marx",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Mao",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Messi",
+    "categories": [
+      "famous",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Michelangelo",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Michael Jackson",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Michael Jordan",
+    "categories": [
+      "famous",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Mike Tyson",
+    "categories": [
+      "famous",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Moses",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Mother Teresa",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Mozart",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Muhammad",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Muhammad Ali",
+    "categories": [
+      "famous",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Musk",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Mussolini",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Napoleon",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Neil Armstrong",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Nero",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Newton",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Nietzsche",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Nixon",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Obama",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Oppenheimer",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Oprah",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Pasteur",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Pelé",
+    "categories": [
+      "famous",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Picasso",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Pinochet",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Plato",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Poe",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Pol Pot",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Prince",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Putin",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Queen Victoria",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Raphael",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Rasputin",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Reagan",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Rembrandt",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Robespierre",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Rockefeller",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Ronaldo",
+    "categories": [
+      "famous",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Rosa Parks",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Rothschild",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Saddam Hussein",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Shakespeare",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Sinatra",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Socrates",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Spartacus",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Stalin",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Ted Bundy",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Tesla",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Thatcher",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Tiger Woods",
+    "categories": [
+      "famous",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Tolkien",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Tolstoy",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Trotsky",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Trump",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Tupac",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Turing",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Twain",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Usain Bolt",
+    "categories": [
+      "famous",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Van Gogh",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Washington",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Zuckerberg",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "absence",
+    "categories": [
+      "abstract"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "abundance",
+    "categories": [
+      "abstract"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "balance",
+    "categories": [
+      "abstract"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "boundary",
+    "categories": [
+      "abstract"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "chaos",
+    "categories": [
+      "abstract"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "clarity",
+    "categories": [
+      "abstract"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "contrast",
+    "categories": [
+      "abstract"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "cycle",
+    "categories": [
+      "abstract",
+      "time"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "decay",
+    "categories": [
+      "abstract"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "destiny",
+    "categories": [
+      "abstract"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "echo",
+    "categories": [
+      "abstract"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "essence",
+    "categories": [
+      "abstract"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "eternity",
+    "categories": [
+      "abstract",
+      "time"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "freedom",
+    "categories": [
+      "abstract"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "gravity",
+    "categories": [
+      "abstract",
+      "space"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "harmony",
+    "categories": [
+      "abstract"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "heritage",
+    "categories": [
+      "abstract"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "horizon",
+    "categories": [
+      "abstract",
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "identity",
+    "categories": [
+      "abstract"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "illusion",
+    "categories": [
+      "abstract"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "impulse",
+    "categories": [
+      "abstract"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "infinity",
+    "categories": [
+      "abstract",
+      "space"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "instinct",
+    "categories": [
+      "abstract"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "irony",
+    "categories": [
+      "abstract"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "legacy",
+    "categories": [
+      "abstract"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "logic",
+    "categories": [
+      "abstract"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "momentum",
+    "categories": [
+      "abstract"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "mystery",
+    "categories": [
+      "abstract"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "myth",
+    "categories": [
+      "abstract"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "paradox",
+    "categories": [
+      "abstract"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "pattern",
+    "categories": [
+      "abstract"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "potential",
+    "categories": [
+      "abstract"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "rhythm",
+    "categories": [
+      "abstract",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "silence",
+    "categories": [
+      "abstract"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "solitude",
+    "categories": [
+      "abstract",
+      "emotions"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "symbol",
+    "categories": [
+      "abstract"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "tension",
+    "categories": [
+      "abstract"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "threshold",
+    "categories": [
+      "abstract"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "truth",
+    "categories": [
+      "abstract"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "void",
+    "categories": [
+      "abstract",
+      "space"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "arousal",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "balls",
+    "categories": [
+      "adult",
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "bikini",
+    "categories": [
+      "adult",
+      "clothing"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "boob",
+    "categories": [
+      "adult",
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "boner",
+    "categories": [
+      "adult",
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "breast",
+    "categories": [
+      "adult",
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "butt",
+    "categories": [
+      "adult",
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "cleavage",
+    "categories": [
+      "adult",
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "climax",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "condom",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "crotch",
+    "categories": [
+      "adult",
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "dildo",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "erection",
+    "categories": [
+      "adult",
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "fetish",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "flirt",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "foreplay",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "groin",
+    "categories": [
+      "adult",
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "hookup",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "horny",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "kink",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "lingerie",
+    "categories": [
+      "adult",
+      "clothing"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "lust",
+    "categories": [
+      "adult",
+      "emotions"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "masturbation",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "nipple",
+    "categories": [
+      "adult",
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "nude",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "nudity",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "orgasm",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "penis",
+    "categories": [
+      "adult",
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "pleasure",
+    "categories": [
+      "adult",
+      "emotions"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "pornography",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "scrotum",
+    "categories": [
+      "adult",
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "seduction",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "sexy",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "stripper",
+    "categories": [
+      "adult",
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "testicle",
+    "categories": [
+      "adult",
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "thong",
+    "categories": [
+      "adult",
+      "clothing"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "threesome",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "vagina",
+    "categories": [
+      "adult",
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "vibrator",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "vulva",
+    "categories": [
+      "adult",
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "albatross",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "badger",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "bear",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "beetle",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "bison",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "boar",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "cat",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "cobra",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "condor",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "coyote",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "crane",
+    "categories": [
+      "animals",
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "crocodile",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "crow",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "deer",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "dog",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "dolphin",
+    "categories": [
+      "animals",
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "eagle",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "elephant",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "elk",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "falcon",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "ferret",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "fox",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "frog",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "gazelle",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "gorilla",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "hawk",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "heron",
+    "categories": [
+      "animals",
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "horse",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "jaguar",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "jellyfish",
+    "categories": [
+      "animals",
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "leopard",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "lion",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "lynx",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "mantis",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "moose",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "moth",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "narwhal",
+    "categories": [
+      "animals",
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "orca",
+    "categories": [
+      "animals",
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "osprey",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "otter",
+    "categories": [
+      "animals",
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "owl",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "panther",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "pelican",
+    "categories": [
+      "animals",
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "penguin",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "python",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "rabbit",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "raven",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "salmon",
+    "categories": [
+      "animals",
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "scorpion",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "shark",
+    "categories": [
+      "animals",
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "sloth",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "snake",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "sparrow",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "spider",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "stag",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "swan",
+    "categories": [
+      "animals",
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "tiger",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "tortoise",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "vulture",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "walrus",
+    "categories": [
+      "animals",
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "weasel",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "wolf",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "wren",
+    "categories": [
+      "animals"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "ballad",
+    "categories": [
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "canvas",
+    "categories": [
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "chord",
+    "categories": [
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "comic",
+    "categories": [
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "drawing",
+    "categories": [
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "film",
+    "categories": [
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "fresco",
+    "categories": [
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "gallery",
+    "categories": [
+      "art",
+      "buildings"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "genre",
+    "categories": [
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "lyric",
+    "categories": [
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "melody",
+    "categories": [
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "mosaic",
+    "categories": [
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "mural",
+    "categories": [
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "novel",
+    "categories": [
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "painting",
+    "categories": [
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "palette",
+    "categories": [
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "photo",
+    "categories": [
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "poem",
+    "categories": [
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "portrait",
+    "categories": [
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "prose",
+    "categories": [
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "sculpture",
+    "categories": [
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "sketch",
+    "categories": [
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "song",
+    "categories": [
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "statue",
+    "categories": [
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "story",
+    "categories": [
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "texture",
+    "categories": [
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "theme",
+    "categories": [
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "verse",
+    "categories": [
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "ankle",
+    "categories": [
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "armpit",
+    "categories": [
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "bone",
+    "categories": [
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "brain",
+    "categories": [
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "brow",
+    "categories": [
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "cheek",
+    "categories": [
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "chin",
+    "categories": [
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "collarbone",
+    "categories": [
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "ear",
+    "categories": [
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "elbow",
+    "categories": [
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "eye",
+    "categories": [
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "eyelid",
+    "categories": [
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "finger",
+    "categories": [
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "fist",
+    "categories": [
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "foot",
+    "categories": [
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "forehead",
+    "categories": [
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "heel",
+    "categories": [
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "hip",
+    "categories": [
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "jaw",
+    "categories": [
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "knee",
+    "categories": [
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "knuckle",
+    "categories": [
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "lip",
+    "categories": [
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "lung",
+    "categories": [
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "muscle",
+    "categories": [
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "nape",
+    "categories": [
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "nerve",
+    "categories": [
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "nose",
+    "categories": [
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "palm",
+    "categories": [
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "rib",
+    "categories": [
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "shin",
+    "categories": [
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "shoulder",
+    "categories": [
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "skull",
+    "categories": [
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "spine",
+    "categories": [
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "stomach",
+    "categories": [
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "temple",
+    "categories": [
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "thigh",
+    "categories": [
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "throat",
+    "categories": [
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "thumb",
+    "categories": [
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "toe",
+    "categories": [
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "tongue",
+    "categories": [
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "torso",
+    "categories": [
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "vein",
+    "categories": [
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "wrist",
+    "categories": [
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "abbey",
+    "categories": [
+      "buildings"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "arch",
+    "categories": [
+      "buildings"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "atrium",
+    "categories": [
+      "buildings"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "barn",
+    "categories": [
+      "buildings"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "bridge",
+    "categories": [
+      "buildings"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "bunker",
+    "categories": [
+      "buildings"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "castle",
+    "categories": [
+      "buildings"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "cathedral",
+    "categories": [
+      "buildings"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "cellar",
+    "categories": [
+      "buildings"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "church",
+    "categories": [
+      "buildings"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "courtyard",
+    "categories": [
+      "buildings"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "dome",
+    "categories": [
+      "buildings"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "dungeon",
+    "categories": [
+      "buildings"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "factory",
+    "categories": [
+      "buildings"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "fortress",
+    "categories": [
+      "buildings"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "garage",
+    "categories": [
+      "buildings"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "harbor",
+    "categories": [
+      "buildings",
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "library",
+    "categories": [
+      "buildings"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "lighthouse",
+    "categories": [
+      "buildings",
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "manor",
+    "categories": [
+      "buildings"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "mill",
+    "categories": [
+      "buildings"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "monastery",
+    "categories": [
+      "buildings"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "museum",
+    "categories": [
+      "buildings"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "obelisk",
+    "categories": [
+      "buildings"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "pavilion",
+    "categories": [
+      "buildings"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "pier",
+    "categories": [
+      "buildings",
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "prison",
+    "categories": [
+      "buildings"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "school",
+    "categories": [
+      "buildings"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "spire",
+    "categories": [
+      "buildings"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "stadium",
+    "categories": [
+      "buildings",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "steeple",
+    "categories": [
+      "buildings"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "tower",
+    "categories": [
+      "buildings"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "warehouse",
+    "categories": [
+      "buildings"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "apron",
+    "categories": [
+      "clothing"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "armor",
+    "categories": [
+      "clothing"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "belt",
+    "categories": [
+      "clothing"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "boot",
+    "categories": [
+      "clothing"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "bra",
+    "categories": [
+      "clothing"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "cap",
+    "categories": [
+      "clothing"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "cape",
+    "categories": [
+      "clothing"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "cloak",
+    "categories": [
+      "clothing"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "coat",
+    "categories": [
+      "clothing"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "collar",
+    "categories": [
+      "clothing"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "cuff",
+    "categories": [
+      "clothing"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "dress",
+    "categories": [
+      "clothing"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "glove",
+    "categories": [
+      "clothing"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "gown",
+    "categories": [
+      "clothing"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "hat",
+    "categories": [
+      "clothing"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "helmet",
+    "categories": [
+      "clothing"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "hood",
+    "categories": [
+      "clothing"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "jacket",
+    "categories": [
+      "clothing"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "jeans",
+    "categories": [
+      "clothing"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "mitten",
+    "categories": [
+      "clothing"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "robe",
+    "categories": [
+      "clothing"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "sandal",
+    "categories": [
+      "clothing"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "sash",
+    "categories": [
+      "clothing"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "shawl",
+    "categories": [
+      "clothing"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "shirt",
+    "categories": [
+      "clothing"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "shoe",
+    "categories": [
+      "clothing"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "skirt",
+    "categories": [
+      "clothing"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "sneaker",
+    "categories": [
+      "clothing"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "sock",
+    "categories": [
+      "clothing"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "sweater",
+    "categories": [
+      "clothing"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "tunic",
+    "categories": [
+      "clothing"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "underwear",
+    "categories": [
+      "clothing"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "veil",
+    "categories": [
+      "clothing"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "vest",
+    "categories": [
+      "clothing"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "anguish",
+    "categories": [
+      "emotions"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "awe",
+    "categories": [
+      "emotions"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "bliss",
+    "categories": [
+      "emotions"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "calm",
+    "categories": [
+      "emotions"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "contempt",
+    "categories": [
+      "emotions"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "curiosity",
+    "categories": [
+      "emotions"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "dread",
+    "categories": [
+      "emotions"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "elation",
+    "categories": [
+      "emotions"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "envy",
+    "categories": [
+      "emotions"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "fury",
+    "categories": [
+      "emotions"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "gloom",
+    "categories": [
+      "emotions"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "grief",
+    "categories": [
+      "emotions"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "guilt",
+    "categories": [
+      "emotions"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "hope",
+    "categories": [
+      "emotions"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "horror",
+    "categories": [
+      "emotions"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "joy",
+    "categories": [
+      "emotions"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "longing",
+    "categories": [
+      "emotions"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "melancholy",
+    "categories": [
+      "emotions"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "nostalgia",
+    "categories": [
+      "emotions"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "panic",
+    "categories": [
+      "emotions"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "passion",
+    "categories": [
+      "emotions"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "pity",
+    "categories": [
+      "emotions"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "pride",
+    "categories": [
+      "emotions"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "rage",
+    "categories": [
+      "emotions"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "regret",
+    "categories": [
+      "emotions"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "relief",
+    "categories": [
+      "emotions"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "remorse",
+    "categories": [
+      "emotions"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "scorn",
+    "categories": [
+      "emotions"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "shame",
+    "categories": [
+      "emotions"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "sorrow",
+    "categories": [
+      "emotions"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "terror",
+    "categories": [
+      "emotions"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "wonder",
+    "categories": [
+      "emotions"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "wrath",
+    "categories": [
+      "emotions"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "yearning",
+    "categories": [
+      "emotions"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "almond",
+    "categories": [
+      "food",
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "anchovy",
+    "categories": [
+      "food",
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "bacon",
+    "categories": [
+      "food"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "bagel",
+    "categories": [
+      "food"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "barley",
+    "categories": [
+      "food",
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "basil",
+    "categories": [
+      "food",
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "burger",
+    "categories": [
+      "food"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "butter",
+    "categories": [
+      "food"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "cake",
+    "categories": [
+      "food"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "candy",
+    "categories": [
+      "food"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "cheese",
+    "categories": [
+      "food"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "chestnut",
+    "categories": [
+      "food",
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "chili",
+    "categories": [
+      "food"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "chip",
+    "categories": [
+      "food"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "chocolate",
+    "categories": [
+      "food"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "cider",
+    "categories": [
+      "food"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "cinnamon",
+    "categories": [
+      "food",
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "cookie",
+    "categories": [
+      "food"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "cream",
+    "categories": [
+      "food"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "curry",
+    "categories": [
+      "food"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "custard",
+    "categories": [
+      "food"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "fig",
+    "categories": [
+      "food",
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "flour",
+    "categories": [
+      "food"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "garlic",
+    "categories": [
+      "food",
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "ginger",
+    "categories": [
+      "food",
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "grape",
+    "categories": [
+      "food",
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "gravy",
+    "categories": [
+      "food"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "honey",
+    "categories": [
+      "food"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "hot dog",
+    "categories": [
+      "food"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "lemon",
+    "categories": [
+      "food",
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "lentil",
+    "categories": [
+      "food",
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "lettuce",
+    "categories": [
+      "food",
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "lime",
+    "categories": [
+      "food",
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "mango",
+    "categories": [
+      "food",
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "molasses",
+    "categories": [
+      "food"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "mustard",
+    "categories": [
+      "food",
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "nacho",
+    "categories": [
+      "food"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "noodle",
+    "categories": [
+      "food"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "oat",
+    "categories": [
+      "food",
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "olive",
+    "categories": [
+      "food",
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "onion",
+    "categories": [
+      "food",
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "pasta",
+    "categories": [
+      "food"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "pepper",
+    "categories": [
+      "food",
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "pickle",
+    "categories": [
+      "food"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "pizza",
+    "categories": [
+      "food"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "plum",
+    "categories": [
+      "food",
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "pretzel",
+    "categories": [
+      "food"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "rye",
+    "categories": [
+      "food",
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "saffron",
+    "categories": [
+      "food",
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "salt",
+    "categories": [
+      "food"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "sauce",
+    "categories": [
+      "food"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "sausage",
+    "categories": [
+      "food"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "snack",
+    "categories": [
+      "food"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "soup",
+    "categories": [
+      "food"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "steak",
+    "categories": [
+      "food"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "sushi",
+    "categories": [
+      "food"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "syrup",
+    "categories": [
+      "food"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "taco",
+    "categories": [
+      "food"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "thyme",
+    "categories": [
+      "food",
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "toast",
+    "categories": [
+      "food"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "truffle",
+    "categories": [
+      "food",
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "vinegar",
+    "categories": [
+      "food"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "walnut",
+    "categories": [
+      "food",
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "wheat",
+    "categories": [
+      "food",
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "abyss",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "amber",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "ash",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "avalanche",
+    "categories": [
+      "nature",
+      "weather"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "bedrock",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "bog",
+    "categories": [
+      "nature",
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "boulder",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "canyon",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "cavern",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "chalk",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "chasm",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "clay",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "cliff",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "coal",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "crag",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "crater",
+    "categories": [
+      "nature",
+      "space"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "delta",
+    "categories": [
+      "nature",
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "desert",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "dune",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "dust",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "earth",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "ember",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "fjord",
+    "categories": [
+      "nature",
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "flint",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "forest",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "geyser",
+    "categories": [
+      "nature",
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "glacier",
+    "categories": [
+      "nature",
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "gorge",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "granite",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "gravel",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "heath",
+    "categories": [
+      "nature",
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "ice",
+    "categories": [
+      "nature",
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "island",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "jungle",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "lava",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "ledge",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "magma",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "marble",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "mesa",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "moor",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "moss",
+    "categories": [
+      "nature",
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "mountain",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "mud",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "obsidian",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "ore",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "pebble",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "peak",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "plateau",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "prairie",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "quartz",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "ravine",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "ridge",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "rock",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "sand",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "shore",
+    "categories": [
+      "nature",
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "silt",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "slate",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "soil",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "stone",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "summit",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "tundra",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "valley",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "volcano",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "anchor",
+    "categories": [
+      "objects",
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "barrel",
+    "categories": [
+      "objects"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "blade",
+    "categories": [
+      "objects",
+      "tools"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "bottle",
+    "categories": [
+      "objects"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "box",
+    "categories": [
+      "objects"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "candle",
+    "categories": [
+      "objects"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "chain",
+    "categories": [
+      "objects"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "chest",
+    "categories": [
+      "objects"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "compass",
+    "categories": [
+      "objects"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "cord",
+    "categories": [
+      "objects"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "crown",
+    "categories": [
+      "objects"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "cup",
+    "categories": [
+      "objects"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "dagger",
+    "categories": [
+      "objects"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "drum",
+    "categories": [
+      "objects",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "flask",
+    "categories": [
+      "objects"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "gear",
+    "categories": [
+      "objects"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "gem",
+    "categories": [
+      "objects"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "globe",
+    "categories": [
+      "objects"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "hook",
+    "categories": [
+      "objects"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "hourglass",
+    "categories": [
+      "objects",
+      "time"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "key",
+    "categories": [
+      "objects"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "lamp",
+    "categories": [
+      "objects"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "lantern",
+    "categories": [
+      "objects"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "lens",
+    "categories": [
+      "objects"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "map",
+    "categories": [
+      "objects"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "mask",
+    "categories": [
+      "objects"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "mirror",
+    "categories": [
+      "objects"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "needle",
+    "categories": [
+      "objects",
+      "tools"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "orb",
+    "categories": [
+      "objects"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "plaque",
+    "categories": [
+      "objects"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "quill",
+    "categories": [
+      "objects"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "relic",
+    "categories": [
+      "objects"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "ring",
+    "categories": [
+      "objects"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "rope",
+    "categories": [
+      "objects",
+      "tools"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "shield",
+    "categories": [
+      "objects"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "sphere",
+    "categories": [
+      "objects"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "staff",
+    "categories": [
+      "objects"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "sword",
+    "categories": [
+      "objects"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "tablet",
+    "categories": [
+      "objects"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "torch",
+    "categories": [
+      "objects"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "urn",
+    "categories": [
+      "objects"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "wheel",
+    "categories": [
+      "objects"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "archer",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "artist",
+    "categories": [
+      "people",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "chef",
+    "categories": [
+      "people",
+      "food"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "child",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "clown",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "coach",
+    "categories": [
+      "people",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "detective",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "doctor",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "driver",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "elder",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "enemy",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "farmer",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "fighter",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "fisher",
+    "categories": [
+      "people",
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "ghost",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "guardian",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "guide",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "guard",
+    "categories": [
+      "people",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "hermit",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "hero",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "hunter",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "kid",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "knight",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "leader",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "loser",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "lover",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "magician",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "mariner",
+    "categories": [
+      "people",
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "monk",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "monster",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "mother",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "navigator",
+    "categories": [
+      "people",
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "nomad",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "nurse",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "oracle",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "outcast",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "pilgrim",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "pirate",
+    "categories": [
+      "people",
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "ranger",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "rebel",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "sage",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "sailor",
+    "categories": [
+      "people",
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "scholar",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "soldier",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "spy",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "stranger",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "teacher",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "thief",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "villain",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "wanderer",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "warrior",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "witch",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "wizard",
+    "categories": [
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "alley",
+    "categories": [
+      "places"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "arena",
+    "categories": [
+      "places",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "atoll",
+    "categories": [
+      "places",
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "bar",
+    "categories": [
+      "places"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "bazaar",
+    "categories": [
+      "places"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "beach",
+    "categories": [
+      "places",
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "camp",
+    "categories": [
+      "places"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "cellar",
+    "categories": [
+      "places"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "cave",
+    "categories": [
+      "places",
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "chapel",
+    "categories": [
+      "places"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "city",
+    "categories": [
+      "places"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "clearing",
+    "categories": [
+      "places",
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "crypt",
+    "categories": [
+      "places"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "den",
+    "categories": [
+      "places"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "diner",
+    "categories": [
+      "places",
+      "food"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "grotto",
+    "categories": [
+      "places",
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "grove",
+    "categories": [
+      "places",
+      "nature",
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "hamlet",
+    "categories": [
+      "places"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "haven",
+    "categories": [
+      "places"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "inlet",
+    "categories": [
+      "places",
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "isle",
+    "categories": [
+      "places",
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "jungle",
+    "categories": [
+      "places",
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "labyrinth",
+    "categories": [
+      "places"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "lair",
+    "categories": [
+      "places"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "market",
+    "categories": [
+      "places"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "marsh",
+    "categories": [
+      "places",
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "outpost",
+    "categories": [
+      "places"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "passage",
+    "categories": [
+      "places"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "park",
+    "categories": [
+      "places"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "realm",
+    "categories": [
+      "places"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "ruins",
+    "categories": [
+      "places"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "sanctuary",
+    "categories": [
+      "places"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "settlement",
+    "categories": [
+      "places"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "shrine",
+    "categories": [
+      "places"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "town",
+    "categories": [
+      "places"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "village",
+    "categories": [
+      "places"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "wasteland",
+    "categories": [
+      "places"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "wilderness",
+    "categories": [
+      "places",
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "acorn",
+    "categories": [
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "algae",
+    "categories": [
+      "plants",
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "bamboo",
+    "categories": [
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "bark",
+    "categories": [
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "birch",
+    "categories": [
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "blossom",
+    "categories": [
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "briar",
+    "categories": [
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "bulb",
+    "categories": [
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "cactus",
+    "categories": [
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "cedar",
+    "categories": [
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "clover",
+    "categories": [
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "cypress",
+    "categories": [
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "daisy",
+    "categories": [
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "elm",
+    "categories": [
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "fern",
+    "categories": [
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "flower",
+    "categories": [
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "grass",
+    "categories": [
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "hazel",
+    "categories": [
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "heather",
+    "categories": [
+      "plants",
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "hemlock",
+    "categories": [
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "herb",
+    "categories": [
+      "plants",
+      "food"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "ivy",
+    "categories": [
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "leaf",
+    "categories": [
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "lichen",
+    "categories": [
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "lily",
+    "categories": [
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "maple",
+    "categories": [
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "mistletoe",
+    "categories": [
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "moss",
+    "categories": [
+      "plants",
+      "nature"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "mushroom",
+    "categories": [
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "nettle",
+    "categories": [
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "oak",
+    "categories": [
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "petal",
+    "categories": [
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "pine",
+    "categories": [
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "reed",
+    "categories": [
+      "plants",
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "root",
+    "categories": [
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "rose",
+    "categories": [
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "sapling",
+    "categories": [
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "seed",
+    "categories": [
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "shrub",
+    "categories": [
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "stem",
+    "categories": [
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "thistle",
+    "categories": [
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "thorn",
+    "categories": [
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "tree",
+    "categories": [
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "vine",
+    "categories": [
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "weed",
+    "categories": [
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "willow",
+    "categories": [
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "yew",
+    "categories": [
+      "plants"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "aesthetic",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "algorithm",
+    "categories": [
+      "popculture",
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "avatar",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "binge",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "blog",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "bot",
+    "categories": [
+      "popculture",
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "cameo",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "cancel",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "clout",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "collab",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "cosplay",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "cringe",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "crossover",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "deepfake",
+    "categories": [
+      "popculture",
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "drama",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "drip",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "emoji",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "fandom",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "fanfic",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "filter",
+    "categories": [
+      "popculture",
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "flex",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "gamer",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "ghosting",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "GOAT",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "grind",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "hashtag",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "hype",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "influencer",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "karma",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "lowkey",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "meme",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "merch",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "mod",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "mood",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "NFT",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "noob",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "npc",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "podcast",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "ratio",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "reboot",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "rizz",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "roast",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "selfie",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "ship",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "simp",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "slay",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "slander",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "spam",
+    "categories": [
+      "popculture",
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "spin-off",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "squad",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "stan",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "streaming",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "sus",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "tea",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "toxic",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "trend",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "troll",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "tweet",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "unboxing",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "vibe",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "viral",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "vlog",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "woke",
+    "categories": [
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "asteroid",
+    "categories": [
+      "space"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "aurora",
+    "categories": [
+      "space",
+      "weather"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "comet",
+    "categories": [
+      "space"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "corona",
+    "categories": [
+      "space"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "cosmos",
+    "categories": [
+      "space"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "eclipse",
+    "categories": [
+      "space"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "galaxy",
+    "categories": [
+      "space"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "moon",
+    "categories": [
+      "space",
+      "time"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "nebula",
+    "categories": [
+      "space"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "orbit",
+    "categories": [
+      "space"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "planet",
+    "categories": [
+      "space"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "pulsar",
+    "categories": [
+      "space"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "quasar",
+    "categories": [
+      "space"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "rocket",
+    "categories": [
+      "space"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "satellite",
+    "categories": [
+      "space"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "star",
+    "categories": [
+      "space"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "sun",
+    "categories": [
+      "space"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "supernova",
+    "categories": [
+      "space"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "zenith",
+    "categories": [
+      "space"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "bout",
+    "categories": [
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "climb",
+    "categories": [
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "contest",
+    "categories": [
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "dash",
+    "categories": [
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "duel",
+    "categories": [
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "endurance",
+    "categories": [
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "final",
+    "categories": [
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "hurdle",
+    "categories": [
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "lap",
+    "categories": [
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "league",
+    "categories": [
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "lunge",
+    "categories": [
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "match",
+    "categories": [
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "medal",
+    "categories": [
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "rally",
+    "categories": [
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "relay",
+    "categories": [
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "rematch",
+    "categories": [
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "round",
+    "categories": [
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "sprint",
+    "categories": [
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "tackle",
+    "categories": [
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "title",
+    "categories": [
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "tourney",
+    "categories": [
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "training",
+    "categories": [
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "trophy",
+    "categories": [
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "antenna",
+    "categories": [
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "app",
+    "categories": [
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "battery",
+    "categories": [
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "beacon",
+    "categories": [
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "cable",
+    "categories": [
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "camera",
+    "categories": [
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "chip",
+    "categories": [
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "circuit",
+    "categories": [
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "clock",
+    "categories": [
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "code",
+    "categories": [
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "conduit",
+    "categories": [
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "data",
+    "categories": [
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "device",
+    "categories": [
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "dial",
+    "categories": [
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "display",
+    "categories": [
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "drone",
+    "categories": [
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "engine",
+    "categories": [
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "fan",
+    "categories": [
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "frequency",
+    "categories": [
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "fuel",
+    "categories": [
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "generator",
+    "categories": [
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "grid",
+    "categories": [
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "laser",
+    "categories": [
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "lever",
+    "categories": [
+      "technology",
+      "tools"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "magnet",
+    "categories": [
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "network",
+    "categories": [
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "node",
+    "categories": [
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "piston",
+    "categories": [
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "pixel",
+    "categories": [
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "probe",
+    "categories": [
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "radar",
+    "categories": [
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "reactor",
+    "categories": [
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "robot",
+    "categories": [
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "rocket",
+    "categories": [
+      "technology",
+      "space"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "rotor",
+    "categories": [
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "scanner",
+    "categories": [
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "sensor",
+    "categories": [
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "server",
+    "categories": [
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "signal",
+    "categories": [
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "switch",
+    "categories": [
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "terminal",
+    "categories": [
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "turbine",
+    "categories": [
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "valve",
+    "categories": [
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "wire",
+    "categories": [
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "age",
+    "categories": [
+      "time"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "calendar",
+    "categories": [
+      "time"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "century",
+    "categories": [
+      "time"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "clock",
+    "categories": [
+      "time"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "dawn",
+    "categories": [
+      "time"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "deadline",
+    "categories": [
+      "time"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "decade",
+    "categories": [
+      "time"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "dusk",
+    "categories": [
+      "time"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "epoch",
+    "categories": [
+      "time"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "era",
+    "categories": [
+      "time"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "eve",
+    "categories": [
+      "time"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "generation",
+    "categories": [
+      "time"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "interval",
+    "categories": [
+      "time"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "midnight",
+    "categories": [
+      "time"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "moment",
+    "categories": [
+      "time"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "morning",
+    "categories": [
+      "time"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "noon",
+    "categories": [
+      "time"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "pause",
+    "categories": [
+      "time"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "season",
+    "categories": [
+      "time"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "second",
+    "categories": [
+      "time"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "solstice",
+    "categories": [
+      "space",
+      "time"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "span",
+    "categories": [
+      "time"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "tide",
+    "categories": [
+      "time",
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "twilight",
+    "categories": [
+      "time"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "watch",
+    "categories": [
+      "time"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "week",
+    "categories": [
+      "time"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "year",
+    "categories": [
+      "time"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "anvil",
+    "categories": [
+      "tools"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "axe",
+    "categories": [
+      "tools"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "bellows",
+    "categories": [
+      "tools"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "chisel",
+    "categories": [
+      "tools"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "clamp",
+    "categories": [
+      "tools"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "drill",
+    "categories": [
+      "tools"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "file",
+    "categories": [
+      "tools"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "furnace",
+    "categories": [
+      "tools"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "hammer",
+    "categories": [
+      "tools"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "hatchet",
+    "categories": [
+      "tools"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "knife",
+    "categories": [
+      "tools"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "lathe",
+    "categories": [
+      "tools"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "mallet",
+    "categories": [
+      "tools"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "pick",
+    "categories": [
+      "tools"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "pliers",
+    "categories": [
+      "tools"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "pulley",
+    "categories": [
+      "tools",
+      "technology"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "rake",
+    "categories": [
+      "tools"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "ratchet",
+    "categories": [
+      "tools"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "saw",
+    "categories": [
+      "tools"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "scissors",
+    "categories": [
+      "tools"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "scythe",
+    "categories": [
+      "tools"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "shears",
+    "categories": [
+      "tools"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "shovel",
+    "categories": [
+      "tools"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "sieve",
+    "categories": [
+      "tools"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "spade",
+    "categories": [
+      "tools"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "trowel",
+    "categories": [
+      "tools"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "wedge",
+    "categories": [
+      "tools",
+      "objects"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "wrench",
+    "categories": [
+      "tools"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "billow",
+    "categories": [
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "brook",
+    "categories": [
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "channel",
+    "categories": [
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "creek",
+    "categories": [
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "current",
+    "categories": [
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "deluge",
+    "categories": [
+      "water",
+      "weather"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "depth",
+    "categories": [
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "drift",
+    "categories": [
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "eddy",
+    "categories": [
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "flood",
+    "categories": [
+      "water",
+      "weather"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "foam",
+    "categories": [
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "ford",
+    "categories": [
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "gulf",
+    "categories": [
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "iceberg",
+    "categories": [
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "lake",
+    "categories": [
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "lagoon",
+    "categories": [
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "mist",
+    "categories": [
+      "water",
+      "weather"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "ocean",
+    "categories": [
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "pond",
+    "categories": [
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "pool",
+    "categories": [
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "rain",
+    "categories": [
+      "water",
+      "weather"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "rapid",
+    "categories": [
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "reef",
+    "categories": [
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "ripple",
+    "categories": [
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "river",
+    "categories": [
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "shallows",
+    "categories": [
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "spray",
+    "categories": [
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "stream",
+    "categories": [
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "surge",
+    "categories": [
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "swell",
+    "categories": [
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "tide",
+    "categories": [
+      "water",
+      "time"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "torrent",
+    "categories": [
+      "water",
+      "weather"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "undertow",
+    "categories": [
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "wake",
+    "categories": [
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "waterfall",
+    "categories": [
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "wave",
+    "categories": [
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "whirlpool",
+    "categories": [
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "blizzard",
+    "categories": [
+      "weather"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "bolt",
+    "categories": [
+      "weather"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "breeze",
+    "categories": [
+      "weather"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "cloud",
+    "categories": [
+      "weather"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "cyclone",
+    "categories": [
+      "weather"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "dew",
+    "categories": [
+      "weather"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "drizzle",
+    "categories": [
+      "weather"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "drought",
+    "categories": [
+      "weather"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "fog",
+    "categories": [
+      "weather"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "frost",
+    "categories": [
+      "weather"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "gale",
+    "categories": [
+      "weather"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "hail",
+    "categories": [
+      "weather"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "haze",
+    "categories": [
+      "weather"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "lightning",
+    "categories": [
+      "weather"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "rain",
+    "categories": [
+      "weather",
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "sleet",
+    "categories": [
+      "weather",
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "smog",
+    "categories": [
+      "weather"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "snow",
+    "categories": [
+      "weather",
+      "water"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "squall",
+    "categories": [
+      "weather"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "steam",
+    "categories": [
+      "weather"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "storm",
+    "categories": [
+      "weather"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "tempest",
+    "categories": [
+      "weather"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "thunder",
+    "categories": [
+      "weather"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "tornado",
+    "categories": [
+      "weather"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "typhoon",
+    "categories": [
+      "weather"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "wind",
+    "categories": [
+      "weather"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "attack",
+    "categories": [
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "bash",
+    "categories": [
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "beat",
+    "categories": [
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "bounce",
+    "categories": [
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "capture",
+    "categories": [
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "carry",
+    "categories": [
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "catch",
+    "categories": [
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "chase",
+    "categories": [
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "climb",
+    "categories": [
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "crawl",
+    "categories": [
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "crush",
+    "categories": [
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "dig",
+    "categories": [
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "dodge",
+    "categories": [
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "drag",
+    "categories": [
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "drop",
+    "categories": [
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "fall",
+    "categories": [
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "fight",
+    "categories": [
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "flip",
+    "categories": [
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "grab",
+    "categories": [
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "grip",
+    "categories": [
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "hit",
+    "categories": [
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "hurl",
+    "categories": [
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "kick",
+    "categories": [
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "leap",
+    "categories": [
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "lift",
+    "categories": [
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "pull",
+    "categories": [
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "punch",
+    "categories": [
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "push",
+    "categories": [
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "race",
+    "categories": [
+      "action",
+      "movement"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "ride",
+    "categories": [
+      "action",
+      "movement"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "roll",
+    "categories": [
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "scramble",
+    "categories": [
+      "action",
+      "movement"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "seize",
+    "categories": [
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "shoot",
+    "categories": [
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "slam",
+    "categories": [
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "slide",
+    "categories": [
+      "action",
+      "movement"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "sprint",
+    "categories": [
+      "action",
+      "movement"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "stomp",
+    "categories": [
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "swim",
+    "categories": [
+      "action",
+      "movement"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "tackle",
+    "categories": [
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "throw",
+    "categories": [
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "toss",
+    "categories": [
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "vault",
+    "categories": [
+      "action",
+      "movement"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "wrestle",
+    "categories": [
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "analyze",
+    "categories": [
+      "mental"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "calculate",
+    "categories": [
+      "mental"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "contemplate",
+    "categories": [
+      "mental"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "decide",
+    "categories": [
+      "mental"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "deduce",
+    "categories": [
+      "mental"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "discover",
+    "categories": [
+      "mental"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "dream",
+    "categories": [
+      "mental",
+      "emotion"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "explore",
+    "categories": [
+      "mental",
+      "movement"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "fantasize",
+    "categories": [
+      "mental",
+      "emotion"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "focus",
+    "categories": [
+      "mental"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "forget",
+    "categories": [
+      "mental"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "guess",
+    "categories": [
+      "mental"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "imagine",
+    "categories": [
+      "mental"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "invent",
+    "categories": [
+      "mental",
+      "creation"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "judge",
+    "categories": [
+      "mental"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "learn",
+    "categories": [
+      "mental"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "memorize",
+    "categories": [
+      "mental"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "obsess",
+    "categories": [
+      "mental",
+      "emotion"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "plan",
+    "categories": [
+      "mental"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "predict",
+    "categories": [
+      "mental"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "reason",
+    "categories": [
+      "mental"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "recall",
+    "categories": [
+      "mental"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "reflect",
+    "categories": [
+      "mental"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "remember",
+    "categories": [
+      "mental"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "solve",
+    "categories": [
+      "mental"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "theorize",
+    "categories": [
+      "mental"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "think",
+    "categories": [
+      "mental"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "wonder",
+    "categories": [
+      "mental"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "announce",
+    "categories": [
+      "communication"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "argue",
+    "categories": [
+      "communication",
+      "social"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "beg",
+    "categories": [
+      "communication",
+      "social"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "boast",
+    "categories": [
+      "communication"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "confess",
+    "categories": [
+      "communication",
+      "social"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "debate",
+    "categories": [
+      "communication",
+      "social"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "declare",
+    "categories": [
+      "communication"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "demand",
+    "categories": [
+      "communication"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "describe",
+    "categories": [
+      "communication"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "explain",
+    "categories": [
+      "communication"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "gossip",
+    "categories": [
+      "communication",
+      "social"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "hint",
+    "categories": [
+      "communication"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "insult",
+    "categories": [
+      "communication",
+      "social"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "lie",
+    "categories": [
+      "communication",
+      "social"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "mock",
+    "categories": [
+      "communication",
+      "social"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "mumble",
+    "categories": [
+      "communication"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "order",
+    "categories": [
+      "communication"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "plead",
+    "categories": [
+      "communication",
+      "emotion"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "promise",
+    "categories": [
+      "communication",
+      "social"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "rant",
+    "categories": [
+      "communication"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "recite",
+    "categories": [
+      "communication"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "reveal",
+    "categories": [
+      "communication"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "scream",
+    "categories": [
+      "communication",
+      "emotion"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "shout",
+    "categories": [
+      "communication"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "sing",
+    "categories": [
+      "communication",
+      "creation"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "swear",
+    "categories": [
+      "communication"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "threaten",
+    "categories": [
+      "communication",
+      "social"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "whisper",
+    "categories": [
+      "communication"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "yell",
+    "categories": [
+      "communication"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "build",
+    "categories": [
+      "creation"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "carve",
+    "categories": [
+      "creation"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "compose",
+    "categories": [
+      "creation"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "construct",
+    "categories": [
+      "creation"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "cook",
+    "categories": [
+      "creation"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "craft",
+    "categories": [
+      "creation"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "design",
+    "categories": [
+      "creation"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "draw",
+    "categories": [
+      "creation"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "forge",
+    "categories": [
+      "creation"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "paint",
+    "categories": [
+      "creation"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "sculpt",
+    "categories": [
+      "creation"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "weave",
+    "categories": [
+      "creation"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "write",
+    "categories": [
+      "creation",
+      "communication"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "break",
+    "categories": [
+      "destruction"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "burn",
+    "categories": [
+      "destruction"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "demolish",
+    "categories": [
+      "destruction"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "destroy",
+    "categories": [
+      "destruction"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "detonate",
+    "categories": [
+      "destruction"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "devour",
+    "categories": [
+      "destruction"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "dismantle",
+    "categories": [
+      "destruction"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "explode",
+    "categories": [
+      "destruction"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "obliterate",
+    "categories": [
+      "destruction"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "shatter",
+    "categories": [
+      "destruction"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "smash",
+    "categories": [
+      "destruction",
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "tear",
+    "categories": [
+      "destruction"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "wreck",
+    "categories": [
+      "destruction"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "advance",
+    "categories": [
+      "movement"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "approach",
+    "categories": [
+      "movement"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "circle",
+    "categories": [
+      "movement"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "dash",
+    "categories": [
+      "movement",
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "depart",
+    "categories": [
+      "movement"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "drift",
+    "categories": [
+      "movement"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "flee",
+    "categories": [
+      "movement"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "flow",
+    "categories": [
+      "movement"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "glide",
+    "categories": [
+      "movement"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "hover",
+    "categories": [
+      "movement"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "journey",
+    "categories": [
+      "movement"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "navigate",
+    "categories": [
+      "movement"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "patrol",
+    "categories": [
+      "movement"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "plunge",
+    "categories": [
+      "movement",
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "pursue",
+    "categories": [
+      "movement",
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "retreat",
+    "categories": [
+      "movement"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "roam",
+    "categories": [
+      "movement"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "rush",
+    "categories": [
+      "movement",
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "soar",
+    "categories": [
+      "movement"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "spiral",
+    "categories": [
+      "movement"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "stride",
+    "categories": [
+      "movement"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "surge",
+    "categories": [
+      "movement"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "travel",
+    "categories": [
+      "movement"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "wander",
+    "categories": [
+      "movement"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "admire",
+    "categories": [
+      "social",
+      "emotion"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "betray",
+    "categories": [
+      "social"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "bless",
+    "categories": [
+      "social"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "celebrate",
+    "categories": [
+      "social",
+      "emotion"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "comfort",
+    "categories": [
+      "social",
+      "emotion"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "conquer",
+    "categories": [
+      "social",
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "deceive",
+    "categories": [
+      "social"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "embrace",
+    "categories": [
+      "social",
+      "emotion"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "envy",
+    "categories": [
+      "emotion",
+      "social"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "fear",
+    "categories": [
+      "emotion"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "forgive",
+    "categories": [
+      "social",
+      "emotion"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "grieve",
+    "categories": [
+      "emotion"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "hate",
+    "categories": [
+      "emotion"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "help",
+    "categories": [
+      "social"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "honor",
+    "categories": [
+      "social"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "inspire",
+    "categories": [
+      "social",
+      "emotion"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "long",
+    "categories": [
+      "emotion"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "love",
+    "categories": [
+      "emotion",
+      "social"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "manipulate",
+    "categories": [
+      "social"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "mourn",
+    "categories": [
+      "emotion"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "protect",
+    "categories": [
+      "social"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "reject",
+    "categories": [
+      "social",
+      "emotion"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "rescue",
+    "categories": [
+      "social",
+      "action"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "sacrifice",
+    "categories": [
+      "social",
+      "emotion"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "seduce",
+    "categories": [
+      "social",
+      "emotion"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "shame",
+    "categories": [
+      "social",
+      "emotion"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "surrender",
+    "categories": [
+      "social",
+      "emotion"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "tempt",
+    "categories": [
+      "social",
+      "emotion"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "trust",
+    "categories": [
+      "social"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "worship",
+    "categories": [
+      "social",
+      "emotion"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Atatürk",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Angela Merkel",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Augustus",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Aung San Suu Kyi",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Benazir Bhutto",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Ben Franklin",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Ben-Gurion",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Bismarck",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Boris Johnson",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Boudicca",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Catherine the Great",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Cecil Rhodes",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Cicero",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Cyrus the Great",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Darius",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "De Gaulle",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Deng Xiaoping",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Eisenhower",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Eleanor Roosevelt",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Elizabeth II",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "FDR",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Franco",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Frederick the Great",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Gaddafi",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "George W. Bush",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Golda Meir",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Haile Selassie",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Hammurabi",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Harry Truman",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Henry V",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Hirohito",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Ho Chi Minh",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Idi Amin",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Indira Gandhi",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Ivan the Terrible",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Jawaharlal Nehru",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Joe Biden",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Justinian",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Khrushchev",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Kim Il-sung",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "King Leopold",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Kwame Nkrumah",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Lech Walesa",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Louis XIV",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Lyndon Johnson",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Marcus Aurelius",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Mary Queen of Scots",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Nasser",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Nefertiti",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Neville Chamberlain",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Pericles",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Peter the Great",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Philip II",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Ramesses",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Richard III",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Robert E. Lee",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Teddy Roosevelt",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Saladin",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Shaka Zulu",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Simón Bolívar",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Suleiman the Magnificent",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Sun Yat-sen",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Sukarno",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Themistocles",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Tutankhamun",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Ulysses Grant",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Vercingetorix",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Vlad the Impaler",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "William the Conqueror",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Woodrow Wilson",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Xi Jinping",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Yasser Arafat",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Yeltsin",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Pachacuti",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Leonidas",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Xerxes",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Zenobia",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Tamerlane",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Mansa Musa",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Alfred the Great",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Scipio",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Anwar Sadat",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Ada Lovelace",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Alexander Fleming",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Alfred Nobel",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Archimedes",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Brahe",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Carl Sagan",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Crick",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Descartes",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Euclid",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Faraday",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Feynman",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Fibonacci",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Heisenberg",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Hippocrates",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Hooke",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Hubble",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Jenner",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Kepler",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Koch",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Lavoisier",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Leibniz",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Maxwell",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Mendel",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Mendeleev",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Planck",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Pythagoras",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Ramanujan",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Rutherford",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Schrödinger",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "James Watt",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Grace Hopper",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Neil deGrasse Tyson",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Jane Goodall",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Paracelsus",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Hypatia",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Adam Smith",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Keynes",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Emmy Noether",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Enrico Fermi",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Lise Meitner",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Rosalind Franklin",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "John von Neumann",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Euler",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Pascal",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Babbage",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Wernher von Braun",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Agatha Christie",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Amy Winehouse",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Balzac",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Banksy",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Basquiat",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Bob Marley",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Borges",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Botticelli",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Brahms",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Brando",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Bukowski",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Byron",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Caravaggio",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Cézanne",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Chekhov",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Chopin",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Coltrane",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Dali",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Debussy",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Degas",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Dürer",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Eliot",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Eminem",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Fitzgerald",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Flaubert",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Frida Kahlo",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Garcia Marquez",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Gauguin",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Goethe",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Gogol",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Handel",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Hardy",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Hitchcock",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Hugo",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Ibsen",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "James Joyce",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Jay-Z",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Jim Morrison",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Johnny Cash",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Kandinsky",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Keats",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Klimt",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Kubrick",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Lady Gaga",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Liszt",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Lorca",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Mahler",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Manet",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Matisse",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Miles Davis",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Monet",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Munch",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Nabokov",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Orwell",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Ovid",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Paganini",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Paul McCartney",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Pessoa",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Pollock",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Proust",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Pushkin",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Rimbaud",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Rodin",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Rubens",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Schubert",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Seurat",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Shelley",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Schiele",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Spielberg",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Springsteen",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Stravinsky",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Tchaikovsky",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Taylor Swift",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Titian",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Toulouse-Lautrec",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Turner",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Verdi",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Vermeer",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Virgil",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Vivaldi",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Wagner",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Warhol",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Wordsworth",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Yeats",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Zola",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Louis Armstrong",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Walt Whitman",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Virginia Woolf",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Toni Morrison",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "William Faulkner",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "William Blake",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Walt Disney",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Rumi",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Sappho",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Li Bai",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Omar Khayyam",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Pablo Neruda",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Dylan Thomas",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Philip Glass",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Molière",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Sophocles",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Aeschylus",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Euripides",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Bob Hope",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Langston Hughes",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Mary Shelley",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "H.G. Wells",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Ingrid Bergman",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Cary Grant",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Diego Rivera",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Ansel Adams",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Dorothy Parker",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Jack Kerouac",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Tennessee Williams",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Rihanna",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Adele",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Kendrick Lamar",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Frank Zappa",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Lou Reed",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Charlie Parker",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Billie Holiday",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Ella Fitzgerald",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Thelonious Monk",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Charles Mingus",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Mick Jagger",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Paul Simon",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Ayrton Senna",
+    "categories": [
+      "famous",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Barry Bonds",
+    "categories": [
+      "famous",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Carl Lewis",
+    "categories": [
+      "famous",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "David Beckham",
+    "categories": [
+      "famous",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Federer",
+    "categories": [
+      "famous",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Floyd Mayweather",
+    "categories": [
+      "famous",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Gretzky",
+    "categories": [
+      "famous",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Hank Aaron",
+    "categories": [
+      "famous",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Jack Nicklaus",
+    "categories": [
+      "famous",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Jesse Owens",
+    "categories": [
+      "famous",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Jim Brown",
+    "categories": [
+      "famous",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Joe DiMaggio",
+    "categories": [
+      "famous",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Joe Montana",
+    "categories": [
+      "famous",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Kobe Bryant",
+    "categories": [
+      "famous",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "LeBron James",
+    "categories": [
+      "famous",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Magic Johnson",
+    "categories": [
+      "famous",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Mickey Mantle",
+    "categories": [
+      "famous",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Michael Phelps",
+    "categories": [
+      "famous",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Neymar",
+    "categories": [
+      "famous",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Serena Williams",
+    "categories": [
+      "famous",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Wilt Chamberlain",
+    "categories": [
+      "famous",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Willie Mays",
+    "categories": [
+      "famous",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Yogi Berra",
+    "categories": [
+      "famous",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Jackie Robinson",
+    "categories": [
+      "famous",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Jim Thorpe",
+    "categories": [
+      "famous",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Nadia Comaneci",
+    "categories": [
+      "famous",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Tony Hawk",
+    "categories": [
+      "famous",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Kevin Durant",
+    "categories": [
+      "famous",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Larry Bird",
+    "categories": [
+      "famous",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Bill Russell",
+    "categories": [
+      "famous",
+      "sports"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Al Pacino",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Arnold Schwarzenegger",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Brad Pitt",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Chris Rock",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Clint Eastwood",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Dean Martin",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Denzel Washington",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Eddie Murphy",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Harrison Ford",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Humphrey Bogart",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Jack Nicholson",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "James Dean",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Jim Carrey",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Johnny Depp",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Julia Roberts",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Martin Scorsese",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Meryl Streep",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Nicolas Cage",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Orson Welles",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Robert De Niro",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Robin Williams",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Steve Martin",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Tom Hanks",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Will Smith",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Richard Pryor",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "George Carlin",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Bette Davis",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Greta Garbo",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Elizabeth Taylor",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "John Wayne",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Katharine Hepburn",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Gene Kelly",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Laurence Olivier",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Sophia Loren",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Brigitte Bardot",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Houdini",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Dave Chappelle",
+    "categories": [
+      "famous",
+      "popculture"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Aquinas",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Augustine",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Avicenna",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Averroes",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Boethius",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Chomsky",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Derrida",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Diogenes",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Epicurus",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Foucault",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Francis of Assisi",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Hegel",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Heidegger",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Heraclitus",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Hobbes",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Hume",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Kant",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Kierkegaard",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Lao Tzu",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Locke",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Maimonides",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Montaigne",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Parmenides",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Plotinus",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Rousseau",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Bertrand Russell",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Sartre",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Schopenhauer",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Seneca",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Simone de Beauvoir",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Spinoza",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Voltaire",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Wittgenstein",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Zeno",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Erasmus",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Diderot",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Sun Tzu",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Amundsen",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Amerigo Vespucci",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Captain Cook",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Edmund Hillary",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Ernest Shackleton",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Henry Hudson",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Hernán Cortés",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Leif Erikson",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Pizarro",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Vasco da Gama",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Zheng He",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Lawrence of Arabia",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Tenzing Norgay",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Betty Friedan",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Cesar Chavez",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Desmond Tutu",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Emma Goldman",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Frederick Douglass",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Gloria Steinem",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Harvey Milk",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Mary Wollstonecraft",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Sojourner Truth",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Steve Biko",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Susan B. Anthony",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Paul Revere",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Harriet Beecher Stowe",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Princess Diana",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Malala",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Aileen Wuornos",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Bernie Madoff",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Billy the Kid",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Blackbeard",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "El Chapo",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Jesse James",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "John Dillinger",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "John Wayne Gacy",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Joseph Mengele",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Pablo Escobar",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Ted Kaczynski",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Coco Chanel",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Frank Lloyd Wright",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Howard Hughes",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Isaac Asimov",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Josephine",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Julia Child",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Rachel Carson",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Edward Snowden",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Margaret Mead",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Hérodotus",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Thucydides",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Tacitus",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Plutarch",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Horace",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Aristophanes",
+    "categories": [
+      "famous",
+      "art"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Kublai Khan",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Atahualpa",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Montezuma",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Ibn Battuta",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Ibn Khaldun",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Al-Khwarizmi",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Avogadro",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "ass",
+    "categories": [
+      "adult",
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "blowjob",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "bondage",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "clitoris",
+    "categories": [
+      "adult",
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "cock",
+    "categories": [
+      "adult",
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "cum",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "desire",
+    "categories": [
+      "adult",
+      "emotions"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "dominatrix",
+    "categories": [
+      "adult",
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "erotic",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "escort",
+    "categories": [
+      "adult",
+      "people"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "exhibitionism",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "genitals",
+    "categories": [
+      "adult",
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "handjob",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "intercourse",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "intimacy",
+    "categories": [
+      "adult",
+      "emotions"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "labia",
+    "categories": [
+      "adult",
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "libido",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "moan",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "naked",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "naughty",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "orgy",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "panties",
+    "categories": [
+      "adult",
+      "clothing"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "penetration",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "provocative",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "pussy",
+    "categories": [
+      "adult",
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "quickie",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "sensual",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "sex",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "shaft",
+    "categories": [
+      "adult",
+      "body"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "spank",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "striptease",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "sultry",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "swinger",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "taboo",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "tease",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "temptation",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "voyeur",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "wank",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "whip",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "erotica",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Herodotus",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "John Adams",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Billie Eilish",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Ed Sheeran",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Justin Bieber",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Post Malone",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "The Weeknd",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Ariana Grande",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Bruno Mars",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Lil Wayne",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Emiliano Zapata",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Simon Bolivar",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Toussaint Louverture",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Nat Turner",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Geronimo",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Crazy Horse",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Sitting Bull",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Chief Joseph",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Tecumseh",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Harriet Jacobs",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "W.E.B. Du Bois",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Booker T. Washington",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Ida B. Wells",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Marcus Garvey",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Martin Luther King Sr.",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "John Brown",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "William Lloyd Garrison",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Nat King Cole",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Sam Cooke",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Marvin Gaye",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Stevie Wonder",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "James Brown",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Wilson Pickett",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Otis Redding",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Ray Charles",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Chuck Berry",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Little Richard",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Jerry Lee Lewis",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Buddy Holly",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Bo Diddley",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Muddy Waters",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Robert Johnson",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "B.B. King",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "John Lee Hooker",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Willie Nelson",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Johnny Winter",
+    "categories": [
+      "famous"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Eric Clapton",
+    "categories": [
+      "famous"
+    ]
+  }
+]
