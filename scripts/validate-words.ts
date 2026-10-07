@@ -9,15 +9,18 @@ const raw: unknown = JSON.parse(readFileSync(file, 'utf-8'))
 const WORD_TYPES = new Set(['noun', 'verb'])
 
 const NOUN_CATEGORIES = new Set([
-  'abstract', 'adult', 'animals', 'art', 'body', 'buildings', 'clothing',
+  'abstract', 'adult', 'animals', 'art', 'body', 'brainrot', 'buildings', 'clothing',
   'emotions', 'famous', 'food', 'nature', 'objects', 'people', 'places',
   'plants', 'popculture', 'space', 'sports', 'technology', 'time', 'tools',
   'water', 'weather',
 ])
 
 const VERB_CATEGORIES = new Set([
-  'action', 'communication', 'creation', 'destruction', 'emotion', 'mental', 'movement', 'social',
+  'action', 'adult', 'communication', 'creation', 'destruction', 'emotion', 'mental', 'movement', 'social',
 ])
+
+// Categories valid for both word types
+const SHARED_CATEGORIES = new Set(['adult'])
 
 const ALL_CATEGORIES = new Set([...NOUN_CATEGORIES, ...VERB_CATEGORIES])
 
@@ -52,13 +55,13 @@ if (!Array.isArray(raw)) {
         }
       }
       if (entry.type === 'noun') {
-        const verbCats = entry.categories.filter((c: string) => VERB_CATEGORIES.has(c))
+        const verbCats = entry.categories.filter((c: string) => VERB_CATEGORIES.has(c) && !SHARED_CATEGORIES.has(c))
         if (verbCats.length) {
           errors.push(`${label}: noun has verb categories: ${verbCats.join(', ')}`)
         }
       }
       if (entry.type === 'verb') {
-        const nounCats = entry.categories.filter((c: string) => NOUN_CATEGORIES.has(c))
+        const nounCats = entry.categories.filter((c: string) => NOUN_CATEGORIES.has(c) && !SHARED_CATEGORIES.has(c))
         if (nounCats.length) {
           errors.push(`${label}: verb has noun categories: ${nounCats.join(', ')}`)
         }

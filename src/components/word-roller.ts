@@ -1,21 +1,11 @@
 import { LitElement, html, css, nothing } from 'lit'
 import { customElement, state } from 'lit/decorators.js'
 import { words } from '../data/words.js'
-import type { Category, NounCategory, VerbCategory, WordType } from '../types.js'
+import type { Category, WordType } from '../types.js'
 
-const WORD_COUNT = 3
+const DEFAULT_WORD_COUNT = 3
 const STORAGE_KEY = 'word-roller-filters-v2'
-
-const NOUN_CATEGORIES: NounCategory[] = [
-  'abstract', 'adult', 'animals', 'art', 'body', 'buildings', 'clothing',
-  'emotions', 'famous', 'food', 'nature', 'objects', 'people', 'places',
-  'plants', 'popculture', 'space', 'sports', 'technology', 'time', 'tools',
-  'water', 'weather',
-]
-
-const VERB_CATEGORIES: VerbCategory[] = [
-  'action', 'communication', 'creation', 'destruction', 'emotion', 'mental', 'movement', 'social',
-]
+const COUNT_KEY = 'word-roller-count-v1'
 
 interface SlotFilter {
   type: WordType | null
@@ -23,9 +13,10 @@ interface SlotFilter {
 }
 
 function categoriesForType(type: WordType | null): Category[] {
-  if (type === 'verb') return VERB_CATEGORIES
-  if (type === 'noun') return NOUN_CATEGORIES
-  return [...NOUN_CATEGORIES, ...VERB_CATEGORIES]
+  const pool = type ? words.filter(w => w.type === type) : words
+  const seen = new Set<Category>()
+  for (const w of pool) for (const c of w.categories) seen.add(c as Category)
+  return [...seen].sort()
 }
 
 function poolFor(filter: SlotFilter): typeof words {
@@ -41,17 +32,32 @@ function pickFrom(pool: typeof words, exclude: Set<string>): (typeof words)[0] {
   return source[Math.floor(Math.random() * source.length)]
 }
 
-function defaultFilters(): SlotFilter[] {
-  return Array.from({ length: WORD_COUNT }, () => ({ type: null, categories: [] }))
+function loadCount(): number {
+  try {
+    const raw = localStorage.getItem(COUNT_KEY)
+    if (raw) {
+      const n = parseInt(raw, 10)
+      if (n >= 1 && n <= 10) return n
+    }
+  } catch {}
+  return DEFAULT_WORD_COUNT
 }
 
-function loadFilters(): SlotFilter[] {
+function saveCount(n: number): void {
+  try { localStorage.setItem(COUNT_KEY, String(n)) } catch {}
+}
+
+function defaultFilters(count: number): SlotFilter[] {
+  return Array.from({ length: count }, () => ({ type: null, categories: [] }))
+}
+
+function loadFilters(count: number): SlotFilter[] {
   try {
     const raw = localStorage.getItem(STORAGE_KEY)
     if (raw) {
       const parsed = JSON.parse(raw)
       if (Array.isArray(parsed)) {
-        return Array.from({ length: WORD_COUNT }, (_, i) => {
+        return Array.from({ length: count }, (_, i) => {
           const f = parsed[i]
           if (f && typeof f === 'object') {
             return {
@@ -64,7 +70,7 @@ function loadFilters(): SlotFilter[] {
       }
     }
   } catch {}
-  return defaultFilters()
+  return defaultFilters(count)
 }
 
 function saveFilters(filters: SlotFilter[]): void {
@@ -76,8 +82,10 @@ function saveFilters(filters: SlotFilter[]): void {
 @customElement('word-roller')
 export class WordRoller extends LitElement {
   @state() private selection: typeof words = []
-  @state() private filters: SlotFilter[] = loadFilters()
+  @state() private wordCount: number = loadCount()
+  @state() private filters: SlotFilter[] = loadFilters(loadCount())
   @state() private modalSlot: number | null = null
+  @state() private showConfig = false
 
   connectedCallback() {
     super.connectedCallback()
@@ -87,12 +95,28 @@ export class WordRoller extends LitElement {
   private roll() {
     const used = new Set<string>()
     const result: (typeof words)[0][] = []
-    for (let i = 0; i < WORD_COUNT; i++) {
+    for (let i = 0; i < this.wordCount; i++) {
       const word = pickFrom(poolFor(this.filters[i]), used)
       result.push(word)
       used.add(word.text)
     }
     this.selection = result
+  }
+
+  private setWordCount(n: number) {
+    const clamped = Math.max(1, Math.min(10, n))
+    this.wordCount = clamped
+    saveCount(clamped)
+    if (clamped > this.filters.length) {
+      this.filters = [
+        ...this.filters,
+        ...Array.from({ length: clamped - this.filters.length }, () => ({ type: null as WordType | null, categories: [] as Category[] })),
+      ]
+    } else {
+      this.filters = this.filters.slice(0, clamped)
+    }
+    saveFilters(this.filters)
+    this.roll()
   }
 
   private rerollSlot(index: number) {
@@ -135,6 +159,14 @@ export class WordRoller extends LitElement {
 
   private closeModal() {
     this.modalSlot = null
+  }
+
+  private openConfig() {
+    this.showConfig = true
+  }
+
+  private closeConfig() {
+    this.showConfig = false
   }
 
   private filterLabel(filter: SlotFilter): string {
@@ -219,6 +251,36 @@ export class WordRoller extends LitElement {
       color: color-mix(in srgb, var(--fg, #f0eeea) 65%, transparent);
     }
 
+    .word-row {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+    }
+
+    .reroll-btn {
+      flex-shrink: 0;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 2rem;
+      height: 2rem;
+      border-radius: 50%;
+      border: 1px solid color-mix(in srgb, var(--fg, #f0eeea) 18%, transparent);
+      background: transparent;
+      color: color-mix(in srgb, var(--fg, #f0eeea) 35%, transparent);
+      font-size: 1rem;
+      cursor: pointer;
+      transition: border-color 0.12s, color 0.12s, transform 0.15s;
+      line-height: 1;
+    }
+
+    .reroll-btn:hover {
+      border-color: color-mix(in srgb, var(--fg, #f0eeea) 40%, transparent);
+      color: color-mix(in srgb, var(--fg, #f0eeea) 70%, transparent);
+    }
+
+    .reroll-btn:active { transform: rotate(180deg); }
+
     .roll-btn {
       padding: 0.85rem 2.5rem;
       font-size: 1rem;
@@ -235,6 +297,49 @@ export class WordRoller extends LitElement {
 
     .roll-btn:hover { opacity: 0.88; }
     .roll-btn:active { transform: scale(0.97); }
+
+    .config-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      padding: 0.4rem 0.9rem;
+      font-size: 0.72rem;
+      font-weight: 500;
+      font-family: inherit;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      border-radius: 100px;
+      border: 1px solid color-mix(in srgb, var(--fg, #f0eeea) 18%, transparent);
+      background: transparent;
+      color: color-mix(in srgb, var(--fg, #f0eeea) 40%, transparent);
+      cursor: pointer;
+      transition: border-color 0.12s, color 0.12s;
+      margin-top: 0.75rem;
+    }
+
+    .config-btn:hover {
+      border-color: color-mix(in srgb, var(--fg, #f0eeea) 40%, transparent);
+      color: color-mix(in srgb, var(--fg, #f0eeea) 70%, transparent);
+    }
+
+    .count-row {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+    }
+
+    .count-slider {
+      flex: 1;
+      accent-color: var(--fg, #f0eeea);
+      cursor: pointer;
+    }
+
+    .count-value {
+      font-size: 1.1rem;
+      font-weight: 700;
+      min-width: 1.5rem;
+      text-align: center;
+    }
 
     /* modal */
     .backdrop {
@@ -446,6 +551,37 @@ export class WordRoller extends LitElement {
     `
   }
 
+  private renderConfigModal() {
+    return html`
+      <div class="backdrop" @click=${this.closeConfig}>
+        <div class="modal" @click=${(e: Event) => e.stopPropagation()}>
+          <div class="modal-header">
+            <div>
+              <div class="modal-title">Configure</div>
+            </div>
+            <div class="modal-actions">
+              <button class="close-btn" @click=${this.closeConfig}>✕</button>
+            </div>
+          </div>
+
+          <div>
+            <div class="section-label">Number of words</div>
+            <div class="count-row">
+              <input
+                class="count-slider"
+                type="range"
+                min="1" max="10"
+                .value=${String(this.wordCount)}
+                @input=${(e: Event) => this.setWordCount(parseInt((e.target as HTMLInputElement).value, 10))}
+              />
+              <span class="count-value">${this.wordCount}</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    `
+  }
+
   render() {
     return html`
       <div class="slots">
@@ -453,7 +589,14 @@ export class WordRoller extends LitElement {
           const filter = this.filters[i]
           return html`
             <div class="slot">
-              <div class="word">${word.text}</div>
+              <div class="word-row">
+                <div class="word">${word.text}</div>
+                <button
+                  class="reroll-btn"
+                  title="Re-roll this word"
+                  @click=${() => this.rerollSlot(i)}
+                >↻</button>
+              </div>
               <button
                 class="filter-toggle ${this.hasFilters(filter) ? 'has-filters' : ''}"
                 @click=${() => this.openModal(i)}
@@ -463,9 +606,11 @@ export class WordRoller extends LitElement {
         })}
       </div>
 
-      <button class="roll-btn" @click=${this.roll}>Re-roll</button>
+      <button class="roll-btn" @click=${this.roll}>Re-roll all</button>
+      <button class="config-btn" @click=${this.openConfig}>⚙ Configure</button>
 
       ${this.modalSlot !== null ? this.renderModal() : nothing}
+      ${this.showConfig ? this.renderConfigModal() : nothing}
     `
   }
 }

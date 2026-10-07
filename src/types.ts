@@ -6,6 +6,7 @@ export type NounCategory =
   | 'animals'
   | 'art'
   | 'body'
+  | 'brainrot'
   | 'buildings'
   | 'clothing'
   | 'emotions'
@@ -27,6 +28,7 @@ export type NounCategory =
 
 export type VerbCategory =
   | 'action'
+  | 'adult'
   | 'communication'
   | 'creation'
   | 'destruction'

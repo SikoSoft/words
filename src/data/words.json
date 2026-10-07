@@ -161,14 +161,6 @@
   },
   {
     "type": "noun",
-    "text": "Cervantes",
-    "categories": [
-      "famous",
-      "art"
-    ]
-  },
-  {
-    "type": "noun",
     "text": "Chaplin",
     "categories": [
       "famous"
@@ -299,14 +291,6 @@
   },
   {
     "type": "noun",
-    "text": "Dostoevsky",
-    "categories": [
-      "famous",
-      "art"
-    ]
-  },
-  {
-    "type": "noun",
     "text": "Drake",
     "categories": [
       "famous",
@@ -329,13 +313,6 @@
   },
   {
     "type": "noun",
-    "text": "Elizabeth I",
-    "categories": [
-      "famous"
-    ]
-  },
-  {
-    "type": "noun",
     "text": "Elvis",
     "categories": [
       "famous",
@@ -345,13 +322,6 @@
   {
     "type": "noun",
     "text": "Epstein",
-    "categories": [
-      "famous"
-    ]
-  },
-  {
-    "type": "noun",
-    "text": "Florence Nightingale",
     "categories": [
       "famous"
     ]
@@ -932,13 +902,6 @@
     "categories": [
       "famous",
       "art"
-    ]
-  },
-  {
-    "type": "noun",
-    "text": "Robespierre",
-    "categories": [
-      "famous"
     ]
   },
   {
@@ -5774,7 +5737,8 @@
     "type": "noun",
     "text": "grind",
     "categories": [
-      "popculture"
+      "popculture",
+      "brainrot"
     ]
   },
   {
@@ -5809,7 +5773,8 @@
     "type": "noun",
     "text": "lowkey",
     "categories": [
-      "popculture"
+      "popculture",
+      "brainrot"
     ]
   },
   {
@@ -5858,7 +5823,8 @@
     "type": "noun",
     "text": "npc",
     "categories": [
-      "popculture"
+      "popculture",
+      "brainrot"
     ]
   },
   {
@@ -5872,7 +5838,8 @@
     "type": "noun",
     "text": "ratio",
     "categories": [
-      "popculture"
+      "popculture",
+      "brainrot"
     ]
   },
   {
@@ -5886,7 +5853,8 @@
     "type": "noun",
     "text": "rizz",
     "categories": [
-      "popculture"
+      "popculture",
+      "brainrot"
     ]
   },
   {
@@ -5914,14 +5882,16 @@
     "type": "noun",
     "text": "simp",
     "categories": [
-      "popculture"
+      "popculture",
+      "brainrot"
     ]
   },
   {
     "type": "noun",
     "text": "slay",
     "categories": [
-      "popculture"
+      "popculture",
+      "brainrot"
     ]
   },
   {
@@ -5971,7 +5941,8 @@
     "type": "noun",
     "text": "sus",
     "categories": [
-      "popculture"
+      "popculture",
+      "brainrot"
     ]
   },
   {
@@ -6717,7 +6688,8 @@
     "type": "noun",
     "text": "era",
     "categories": [
-      "time"
+      "time",
+      "brainrot"
     ]
   },
   {
@@ -7698,7 +7670,8 @@
     "text": "ride",
     "categories": [
       "action",
-      "movement"
+      "movement",
+      "adult"
     ]
   },
   {
@@ -8352,7 +8325,8 @@
     "type": "verb",
     "text": "devour",
     "categories": [
-      "destruction"
+      "destruction",
+      "adult"
     ]
   },
   {
@@ -8388,7 +8362,8 @@
     "text": "smash",
     "categories": [
       "destruction",
-      "action"
+      "action",
+      "adult"
     ]
   },
   {
@@ -12201,13 +12176,6 @@
   },
   {
     "type": "noun",
-    "text": "Herodotus",
-    "categories": [
-      "famous"
-    ]
-  },
-  {
-    "type": "noun",
     "text": "John Adams",
     "categories": [
       "famous"
@@ -12271,21 +12239,7 @@
   },
   {
     "type": "noun",
-    "text": "Emiliano Zapata",
-    "categories": [
-      "famous"
-    ]
-  },
-  {
-    "type": "noun",
     "text": "Simon Bolivar",
-    "categories": [
-      "famous"
-    ]
-  },
-  {
-    "type": "noun",
-    "text": "Toussaint Louverture",
     "categories": [
       "famous"
     ]
@@ -12320,27 +12274,6 @@
   },
   {
     "type": "noun",
-    "text": "Chief Joseph",
-    "categories": [
-      "famous"
-    ]
-  },
-  {
-    "type": "noun",
-    "text": "Tecumseh",
-    "categories": [
-      "famous"
-    ]
-  },
-  {
-    "type": "noun",
-    "text": "Harriet Jacobs",
-    "categories": [
-      "famous"
-    ]
-  },
-  {
-    "type": "noun",
     "text": "W.E.B. Du Bois",
     "categories": [
       "famous"
@@ -12369,21 +12302,7 @@
   },
   {
     "type": "noun",
-    "text": "Martin Luther King Sr.",
-    "categories": [
-      "famous"
-    ]
-  },
-  {
-    "type": "noun",
     "text": "John Brown",
-    "categories": [
-      "famous"
-    ]
-  },
-  {
-    "type": "noun",
-    "text": "William Lloyd Garrison",
     "categories": [
       "famous"
     ]
@@ -12419,13 +12338,6 @@
   {
     "type": "noun",
     "text": "James Brown",
-    "categories": [
-      "famous"
-    ]
-  },
-  {
-    "type": "noun",
-    "text": "Wilson Pickett",
     "categories": [
       "famous"
     ]
@@ -12474,35 +12386,7 @@
   },
   {
     "type": "noun",
-    "text": "Bo Diddley",
-    "categories": [
-      "famous"
-    ]
-  },
-  {
-    "type": "noun",
-    "text": "Muddy Waters",
-    "categories": [
-      "famous"
-    ]
-  },
-  {
-    "type": "noun",
-    "text": "Robert Johnson",
-    "categories": [
-      "famous"
-    ]
-  },
-  {
-    "type": "noun",
     "text": "B.B. King",
-    "categories": [
-      "famous"
-    ]
-  },
-  {
-    "type": "noun",
-    "text": "John Lee Hooker",
     "categories": [
       "famous"
     ]
@@ -12516,16 +12400,660 @@
   },
   {
     "type": "noun",
-    "text": "Johnny Winter",
+    "text": "Eric Clapton",
     "categories": [
       "famous"
     ]
   },
   {
     "type": "noun",
-    "text": "Eric Clapton",
+    "text": "skibidi",
     "categories": [
-      "famous"
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "ohio",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "sigma",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "gyatt",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "bussin",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "griddy",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "delulu",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "aura",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "looksmaxxing",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "mewing",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "chad",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "gigachad",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "incel",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "sheesh",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "mid",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "yeet",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "based",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "fanum tax",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "touch grass",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "no cap",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "bruh",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "glizzy",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "cooked",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "goated",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "vibe check",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "red flag",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "main character",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "understood the assignment",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "alpha male",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "glazing",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "unhinged",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "rent free",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "caught lacking",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "highkey",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "slaps",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "ate",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "rizz pass",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "grindset",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "villain arc",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "glow up",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "it's giving",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "brain rot",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "W",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "L",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "bite",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "nibble",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "ram",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "penetrate",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "mount",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "lick",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "suck",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "caress",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "fondle",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "grope",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "thrust",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "stroke",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "squeeze",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "arouse",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "undress",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "strip",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "choke",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "pin",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "dominate",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "submit",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "stimulate",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "rub",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "massage",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "expose",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "ravish",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "writhe",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "titillate",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "tantalize",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "excite",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "inflame",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "bed",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "fuck",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "bang",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "hump",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "pound",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "breed",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "rail",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "edge",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "flick",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "satisfy",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "quiver",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "pant",
+    "categories": [
+      "adult"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "rizzler",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "sigma male",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "skibidi toilet",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "NPC behavior",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "Ohio moment",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "noun",
+    "text": "rizz lord",
+    "categories": [
+      "brainrot"
+    ]
+  },
+  {
+    "type": "verb",
+    "text": "please",
+    "categories": [
+      "adult"
     ]
   }
 ]
