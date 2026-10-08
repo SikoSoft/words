@@ -194,7 +194,7 @@ export class WordRoller extends LitElement {
       padding: 2rem;
       box-sizing: border-box;
       font-family: 'Inter', system-ui, sans-serif;
-      background: var(--bg, #0f0f11);
+      background: var(--bg);
       color: var(--fg, #f0eeea);
     }
 
@@ -290,7 +290,7 @@ export class WordRoller extends LitElement {
       border: none;
       border-radius: 100px;
       background: var(--fg, #f0eeea);
-      color: var(--bg, #0f0f11);
+      color: var(--bg);
       cursor: pointer;
       transition: opacity 0.1s, transform 0.1s;
     }
@@ -345,7 +345,7 @@ export class WordRoller extends LitElement {
     .backdrop {
       position: fixed;
       inset: 0;
-      background: color-mix(in srgb, var(--bg, #0f0f11) 70%, transparent);
+      background: color-mix(in srgb, var(--bg) 70%, transparent);
       backdrop-filter: blur(4px);
       display: flex;
       align-items: center;
@@ -356,7 +356,7 @@ export class WordRoller extends LitElement {
     }
 
     .modal {
-      background: color-mix(in srgb, var(--fg, #f0eeea) 7%, var(--bg, #0f0f11));
+      background: color-mix(in srgb, var(--fg, #f0eeea) 7%, var(--bg));
       border: 1px solid color-mix(in srgb, var(--fg, #f0eeea) 12%, transparent);
       border-radius: 16px;
       padding: 1.5rem;
@@ -462,7 +462,7 @@ export class WordRoller extends LitElement {
 
     .type-chip.active {
       background: var(--fg, #f0eeea);
-      color: var(--bg, #0f0f11);
+      color: var(--bg);
       border-color: var(--fg, #f0eeea);
     }
 
@@ -494,7 +494,7 @@ export class WordRoller extends LitElement {
 
     .cat-chip.active {
       background: var(--fg, #f0eeea);
-      color: var(--bg, #0f0f11);
+      color: var(--bg);
       border-color: var(--fg, #f0eeea);
     }
   `
