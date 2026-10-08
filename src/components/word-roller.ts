@@ -6,6 +6,8 @@ import type { Category, WordType } from '../types.js'
 const DEFAULT_WORD_COUNT = 3
 const STORAGE_KEY = 'word-roller-filters-v2'
 const COUNT_KEY = 'word-roller-count-v1'
+const SHOW_FILTERS_KEY = 'word-roller-show-filters-v1'
+const SHOW_REROLL_KEY = 'word-roller-show-reroll-v1'
 
 interface SlotFilter {
   type: WordType | null
@@ -47,6 +49,19 @@ function saveCount(n: number): void {
   try { localStorage.setItem(COUNT_KEY, String(n)) } catch {}
 }
 
+function loadBool(key: string, fallback: boolean): boolean {
+  try {
+    const raw = localStorage.getItem(key)
+    if (raw === 'true') return true
+    if (raw === 'false') return false
+  } catch {}
+  return fallback
+}
+
+function saveBool(key: string, value: boolean): void {
+  try { localStorage.setItem(key, String(value)) } catch {}
+}
+
 function defaultFilters(count: number): SlotFilter[] {
   return Array.from({ length: count }, () => ({ type: null, categories: [] }))
 }
@@ -86,6 +101,8 @@ export class WordRoller extends LitElement {
   @state() private filters: SlotFilter[] = loadFilters(loadCount())
   @state() private modalSlot: number | null = null
   @state() private showConfig = false
+  @state() private showFilters = loadBool(SHOW_FILTERS_KEY, true)
+  @state() private showWordReroll = loadBool(SHOW_REROLL_KEY, true)
 
   connectedCallback() {
     super.connectedCallback()
@@ -186,16 +203,36 @@ export class WordRoller extends LitElement {
 
   static styles = css`
     :host {
+      display: block;
+      min-height: 100vh;
+      font-family: 'Inter', system-ui, sans-serif;
+      background: var(--bg);
+      color: var(--fg, #f0eeea);
+    }
+
+    .main {
       display: flex;
       flex-direction: column;
       align-items: center;
       justify-content: center;
       min-height: 100vh;
-      padding: 2rem;
+      padding: 2rem 2rem calc(2rem + 3.5rem);
       box-sizing: border-box;
-      font-family: 'Inter', system-ui, sans-serif;
-      background: var(--bg);
-      color: var(--fg, #f0eeea);
+    }
+
+    .bar {
+      position: fixed;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      z-index: 50;
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+      padding: 0.75rem 1.5rem;
+      box-sizing: border-box;
+      background: color-mix(in srgb, var(--fg, #f0eeea) 4%, var(--bg));
+      border-top: 1px solid color-mix(in srgb, var(--fg, #f0eeea) 10%, transparent);
     }
 
     .slots {
@@ -314,7 +351,6 @@ export class WordRoller extends LitElement {
       color: color-mix(in srgb, var(--fg, #f0eeea) 40%, transparent);
       cursor: pointer;
       transition: border-color 0.12s, color 0.12s;
-      margin-top: 0.75rem;
     }
 
     .config-btn:hover {
@@ -339,6 +375,21 @@ export class WordRoller extends LitElement {
       font-weight: 700;
       min-width: 1.5rem;
       text-align: center;
+    }
+
+    .toggle-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      font-size: 0.9rem;
+      cursor: pointer;
+    }
+
+    .toggle-row input {
+      accent-color: var(--fg, #f0eeea);
+      width: 1.1rem;
+      height: 1.1rem;
+      cursor: pointer;
     }
 
     /* modal */
@@ -577,6 +628,30 @@ export class WordRoller extends LitElement {
               <span class="count-value">${this.wordCount}</span>
             </div>
           </div>
+
+          <label class="toggle-row">
+            <span>Show filters</span>
+            <input
+              type="checkbox"
+              .checked=${this.showFilters}
+              @change=${(e: Event) => {
+                this.showFilters = (e.target as HTMLInputElement).checked
+                saveBool(SHOW_FILTERS_KEY, this.showFilters)
+              }}
+            />
+          </label>
+
+          <label class="toggle-row">
+            <span>Show word re-roll</span>
+            <input
+              type="checkbox"
+              .checked=${this.showWordReroll}
+              @change=${(e: Event) => {
+                this.showWordReroll = (e.target as HTMLInputElement).checked
+                saveBool(SHOW_REROLL_KEY, this.showWordReroll)
+              }}
+            />
+          </label>
         </div>
       </div>
     `
@@ -584,6 +659,7 @@ export class WordRoller extends LitElement {
 
   render() {
     return html`
+      <div class="main">
       <div class="slots">
         ${this.selection.map((word, i) => {
           const filter = this.filters[i]
@@ -591,23 +667,31 @@ export class WordRoller extends LitElement {
             <div class="slot">
               <div class="word-row">
                 <div class="word">${word.text}</div>
-                <button
-                  class="reroll-btn"
-                  title="Re-roll this word"
-                  @click=${() => this.rerollSlot(i)}
-                >↻</button>
+                ${this.showWordReroll ? html`
+                  <button
+                    class="reroll-btn"
+                    title="Re-roll this word"
+                    @click=${() => this.rerollSlot(i)}
+                  >↻</button>
+                ` : nothing}
               </div>
-              <button
-                class="filter-toggle ${this.hasFilters(filter) ? 'has-filters' : ''}"
-                @click=${() => this.openModal(i)}
-              >${this.filterLabel(filter)}</button>
+              ${this.showFilters ? html`
+                <button
+                  class="filter-toggle ${this.hasFilters(filter) ? 'has-filters' : ''}"
+                  @click=${() => this.openModal(i)}
+                >${this.filterLabel(filter)}</button>
+              ` : nothing}
             </div>
           `
         })}
       </div>
 
       <button class="roll-btn" @click=${this.roll}>Re-roll all</button>
-      <button class="config-btn" @click=${this.openConfig}>⚙ Configure</button>
+      </div>
+
+      <div class="bar">
+        <button class="config-btn" @click=${this.openConfig}>⚙ Configure</button>
+      </div>
 
       ${this.modalSlot !== null ? this.renderModal() : nothing}
       ${this.showConfig ? this.renderConfigModal() : nothing}
